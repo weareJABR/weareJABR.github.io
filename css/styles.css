@@ -8142,7 +8142,7 @@ textarea.form-control-lg {
 
 .bg-secondary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
 }
 
 .bg-success {
@@ -10992,8 +10992,8 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 25rem;
-  border-radius: 8px;
+  width: 45rem;
+  border-radius: green 8px;
 }
 
 @media (min-width: 992px) {
